@@ -19,6 +19,6 @@ Issues concerning this repository are organised through the RDFBones-O issue tra
 
 ## References
 
-    Brooks, S., & Suchey, J. M. (1990). Skeletal age determination based on the os pubis: a comparison of the Acsádi- Nemeskéri and Suchey-Brooks methods. Human Evolution 5(3), 227-238. doi: 10.1007/BF02437238
+* Brooks, S., & Suchey, J. M. (1990). Skeletal age determination based on the os pubis: a comparison of the Acsádi- Nemeskéri and Suchey-Brooks methods. Human Evolution 5(3), 227-238. doi: 10.1007/BF02437238
 
-    Hartnett, K. M. (2010). Analysis of Age-at-Death Estimation Using Data from a New, Modern Autopsy Sample—Part I: Pubic Bone. Journal of Forensic Sciences 55(5), 1145-1151. doi: 10.1111/j.1556-4029.2010.01399.x
+* Hartnett, K. M. (2010). Analysis of Age-at-Death Estimation Using Data from a New, Modern Autopsy Sample—Part I: Pubic Bone. Journal of Forensic Sciences 55(5), 1145-1151. doi: 10.1111/j.1556-4029.2010.01399.x
