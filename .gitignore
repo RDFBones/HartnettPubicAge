@@ -2,6 +2,10 @@
 
 results/*
 
+## draw.io temporal files
+
+*.bkp
+
 ## Emacs temporal files
 
 \#*
