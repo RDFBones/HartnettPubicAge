@@ -272,6 +272,7 @@
     "ZFS" : "http://purl.obolibrary.org/obo/ZFS_",
     "ZP" : "http://purl.obolibrary.org/obo/ZP_",
     "rdfbones" : "http://w3id.org/rdfbones/core#",
-    "hpa" : "http://w3id.org/rdfbones/ext/hpa/"
+    "hpa" : "http://w3id.org/rdfbones/ext/hpa/" ,
+    "fma" : "http://purl.org/sig/ont/fma/"
   }
 }
