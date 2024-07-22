@@ -3,17 +3,17 @@
 ## META DATA
 ## =========
 
-export title="RDFBones ontology extension template"
-export shortname="template"
-export version="0.3.1"
-export date="2023-12-04"
-export ontology_iri="http://w3id.org/rdfbones/ext/template/latest/template.owl"
-export version_iri="http://w3id.org/rdfbones/ext/template/v0-3-1/template.owl"
+export title="Hartnett Pubic Age Estimation"
+export shortname="hpa"
+export version="0.0.1"
+export date="2024-07-22"
+export ontology_iri="http://w3id.org/rdfbones/ext/hpa/latest/hpa.owl"
+export version_iri="http://w3id.org/rdfbones/ext/hpa/v0-0-1/hpa.owl"
 export creators="Felix Engel"
 export contributors=("Stefan Schlager" "Lukas Bender")
-export description="Extensions to the RDFBones core ontology are written to implement data structures representing osteological reseearch data in biological anthropology. The RDFBones ontology extension template provides a repository outline to help researchers embarking on the creation of an ontology extension. This output is dummy content proving that the template is operational and demonstrating how it is to be used. Authors of ontology extensions need to replace the dummy content with the information they intend to model in order to receive the desired outcome."
-export comment="This is a dummy for an ontology extending the RDFBones core ontology. It is not intended for productivity but to demonstrate how the template for RDFBones ontology extensions works."
-export source="Implements the routines for creating otology extensions as developed during the 'Establishing Semantic Research Data Modelling in Biological Anthropology'."
+export description="This RDFBones ontology extension implements the pubic age estimation technique published in Hartnett (2010)."
+export comment="This RDFBones ontology extension implements the pubic age estimation technique published in Hartnett (2010)."
+export source="Hartnett, K. M. (2010). Analysis of Age-at-Death Estimation Using Data from a New, Modern Autopsy Sample—Part I: Pubic Bone. Journal of Forensic Sciences 55(5). doi: 10.1111/j.1556-4029.2010.01399.x"
 
 
 ## VARIABLES
