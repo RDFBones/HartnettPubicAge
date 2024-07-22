@@ -127,6 +127,14 @@ if [ $build -eq 1 ]; then
     ./Script-Build_RDFBones-Robot.sh
 
     cd ../../../
+    
+    ## Build Suchey Brooks pubic age estimation submodule
+    
+    cd dependencies/SucheyBrooksPubicAge/
+    
+    ./Script-Build_OntologyExtension-Robot.sh -b -c -u
+    
+    cd ../../
 
     ## Add additional build instructions as exemplified for the core ontology above
     ## ****************************************************************************
@@ -140,6 +148,7 @@ if [ $build -eq 1 ]; then
     fi
 
     robot merge --input dependencies/RDFBones-O/robot/results/rdfbones.owl \
+	  --input dependencies/SucheyBrooksPubicAge/results/sb.owl \
 	  --output results/dependencies.owl
     
     ## Add additional dependencies files as input
