@@ -1,3 +1,6 @@
 [submodule "dependencies/RDFBones-O"]
 	path = dependencies/RDFBones-O
 	url = https://github.com/RDFBones/RDFBones-O
+[submodule "dependencies/SucheyBrooksPubicAge"]
+	path = dependencies/SucheyBrooksPubicAge
+	url = https://github.com/RDFBones/SucheyBrooksPubicAge
